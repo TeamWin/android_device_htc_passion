@@ -32,3 +32,6 @@ USE_CAMERA_STUB := true
 # of passion
 include device/htc/passion-common/BoardConfigCommon.mk
 
+# TWRP
+DEVICE_RESOLUTION := 480x800
+
